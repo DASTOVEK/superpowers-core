@@ -1,0 +1,14 @@
+name: superpowers-core
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/e45aac9e-33cc-42df-aab5-e22f92c57092
+description: ':octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:typescript
+  - source:github
+customFields: null
